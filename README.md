@@ -1,5 +1,5 @@
 # kiwirecorder_interface
-A basic interface to the awesome kiwirecorder script within the kiwiclient repo.
+A basic interface to the awesome kiwirecorder script within the kiwiclient repo (https://github.com/jks-prv/kiwiclient).
 
 # Intended usage:
 Place the .py file into the local folder of the kiwiclient repository/folder.
