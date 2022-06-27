@@ -5,7 +5,7 @@ A basic interface to the awesome kiwirecorder script within the kiwiclient repo 
 Place the .py file into the local folder of the kiwiclient repository/folder.
 Execute kiwirecoder_interface.py.
 
-![image](https://user-images.githubusercontent.com/25377369/175809061-4b9e95ea-25c0-4da0-9426-c27db9ead738.png)
+![image](https://user-images.githubusercontent.com/25377369/175953547-77597882-c45e-4ebb-9293-a3cc76d75830.png)
 
 
 # Required modules:
